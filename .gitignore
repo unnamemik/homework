@@ -1,7 +1,7 @@
  /*
 !.gitignore
 !README.md
-!/**/*.tex
+!/**/*.text
 !/**/*.pdf
 !**/img/
 **/img/*
