@@ -1,9 +1,0 @@
- /*
-!.gitignore
-!/**/*.text
-!/**/*.pdf
-!**/img/
-**/img/*
-!/img/*.png
-!/img/*.jpg
-!/data
